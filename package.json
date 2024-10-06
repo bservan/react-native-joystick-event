@@ -1,7 +1,7 @@
 {
-  "name": "react-native-android-joystick",
+  "name": "react-native-joystick-event",
   "version": "0.1.0",
-  "description": "A React Native package written for handling joystick event. Android-only.",
+  "description": "A React Native package written for handling joystick event.",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
   "module": "./lib/module/index.js",
@@ -36,7 +36,7 @@
     "!**/.*"
   ],
   "scripts": {
-    "example": "yarn workspace react-native-android-joystick-example",
+    "example": "yarn workspace react-native-joystick-event-example",
     "test": "jest",
     "typecheck": "tsc",
     "lint": "eslint \"**/*.{js,ts,tsx}\"",
@@ -51,14 +51,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bservan/react-native-android-joystick.git"
+    "url": "git+https://github.com/bservan/react-native-joystick-event.git"
   },
   "author": "bservan <bservangok@gmail.com> (https://github.com/bservan)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bservan/react-native-android-joystick/issues"
+    "url": "https://github.com/bservan/react-native-joystick-event/issues"
   },
-  "homepage": "https://github.com/bservan/react-native-android-joystick#readme",
+  "homepage": "https://github.com/bservan/react-native-joystick-event#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

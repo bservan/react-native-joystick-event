@@ -1,18 +1,18 @@
-# react-native-android-joystick
+# react-native-joystick-event
 
-A React Native package written for handling joystick event. Android-only.
+A React Native package written for handling joystick event.
 
 ## Installation
 
 ```sh
-npm install react-native-android-joystick
+npm install react-native-joystick-event
 ```
 
 ## Usage
 
 
 ```js
-import { multiply } from 'react-native-android-joystick';
+import { multiply } from 'react-native-joystick-event';
 
 // ...
 

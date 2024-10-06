@@ -2,7 +2,7 @@
   "compilerOptions": {
     "rootDir": ".",
     "paths": {
-      "react-native-android-joystick": ["./src/index"]
+      "react-native-joystick-event": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
